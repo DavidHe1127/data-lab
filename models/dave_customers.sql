@@ -16,7 +16,7 @@ with
 
         group by 1
 
-    ),
+    ),  
 
     final as (
 
